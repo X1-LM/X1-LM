@@ -1,4 +1,1 @@
-Pronounced 'Ecks-Won-Ell-Tee'.
-
-This account is for collaboration and easy sharing of certain projects with the many GitHub-using normies I have and will inevitably run into.
-I don't presently intend to start off any new or major projects here.
+Present Intention is to host only a few projects here, that require/ would potentially require collaborative efforts, and to contribute to others' projects, if and when necessary.
